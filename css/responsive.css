@@ -1,0 +1,33 @@
+
+
+/* Media Query 1170px */
+@media (max-width:1170px) {
+
+   
+}
+
+/* Media Query 991px */
+@media (max-width:991px) {
+
+
+
+}
+
+/* Media Query 767px */
+@media (max-width:767px) {
+
+    .team-member .card {
+        margin: 10px 0;
+    }
+
+}
+
+/* Media Query 590px */
+@media (max-width:590px) {
+
+
+
+}
+
+
+
